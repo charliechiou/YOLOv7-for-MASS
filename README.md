@@ -1,0 +1,2 @@
+project中為最後完成的期末專題(影像辨識部分)
+主要使用YOLOv7進行辨識,並利用python中pyqt建立GUI並使用TCP/IP通訊來將辨識到的數據傳輸給Labview處理。
