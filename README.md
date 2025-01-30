@@ -1,3 +1,3 @@
-project中為最後完成的期末專題(影像辨識部分)
+Final Project (Image Recognition Section)
 
-主要使用YOLOv7進行辨識,並利用python中pyqt建立GUI並使用TCP/IP通訊來將辨識到的數據傳輸給Labview處理。
+The project primarily utilizes YOLOv7 for object recognition. A GUI is developed using PyQt in Python, and TCP/IP communication is implemented to transmit the recognized data to LabVIEW for processing.
